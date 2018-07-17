@@ -1,11 +1,20 @@
 {
   "name": "@hobbytraceorg/azure-storage-browser",
-  "version": "0.1.1",
+  "version": "2.10.0",
   "description": "Bundled (browserify) azure-storage JS client library that can be used in the browser environment.",
   "main": "index.js",
   "repository": "https://github.com/HobbyTrace/azure-storage-browser",
   "author": "Han Lin <hanlin.dev@gmail.com>",
   "license": "MIT",
   "private": false,
-  "typings": "./azure-storage.d.ts"
+  "typings": "./azure-storage.d.ts",
+  "keywords": [
+    "node",
+    "azure",
+    "storage",
+    "browser",
+    "webpack",
+    "ES6",
+    "Typescript"
+  ]
 }
